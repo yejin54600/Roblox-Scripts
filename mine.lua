@@ -104,5 +104,5 @@ local function scanScripts()
     ScrollingFrame.CanvasSize = UDim2.new(0, 0, 0, UIListLayout.AbsoluteContentSize.Y)
 end
 
--- تشغيل الفحص فور تشغيل السكريبت
+-- تشسغيل الفحص فور تشغيل السكريبت
 scanScripts()
